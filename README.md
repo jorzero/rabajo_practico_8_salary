@@ -2,6 +2,8 @@
 
 Bienvenido al servicio de predicción de salarios utilizando un modelo de regresión lineal. Este servicio web fue creado con FastAPI y permite estimar el salario basado en los años de experiencia.
 
+Los datos utilizados no son reales. Son utilizados unicamente con fines academicos y no representan la realidad.
+
 ## Características
 
 - **FastAPI**: Framework rápido para construir APIs con Python 3.7+.
